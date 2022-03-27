@@ -3,9 +3,11 @@
 A case is demonstrated where the amount of funded loans versus loans that will not fund.  First the amount of funded and loans that do not qualify are visualized then corrected to have more balanced training data.  
 
 Header of data:
+
 ![image](https://user-images.githubusercontent.com/58529391/160301127-06015402-910d-486c-afdd-419b0732ebd6.png)
 
 Data distribution pre-pre-processing:
+
 ![image](https://user-images.githubusercontent.com/58529391/160301156-12613ba3-43f8-4a4d-a11c-04b0a36e6343.png)
 
 
