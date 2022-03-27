@@ -14,6 +14,6 @@ Data destribution after random choosing to have even distribution of classes:
 
 ![image](https://user-images.githubusercontent.com/58529391/160301957-295d5d10-02cc-430d-968f-e0626bf2972a.png)
 
-Second the data is ran through a standard neural network to test performance. As there is only two classes of loans (funded vs. not funded) the data is then put through a logistic regression model to compare what model is better to use.
+Second the data is ran through a standard neural network to test performance. As there are only two classes of loans (funded vs. not funded) the data is then put through a logistic regression model to compare what model is better to use.
 
 Lastly the roc and the area under the roc curve are compared to gague the logistic regression model performance.  
